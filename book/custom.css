@@ -1,0 +1,16 @@
+/* Keep long reading notes within the mdBook document width. */
+.table-wrapper table {
+  table-layout: fixed;
+  width: 100%;
+}
+
+.table-wrapper th,
+.table-wrapper td {
+  overflow-wrap: anywhere;
+  white-space: normal;
+}
+
+pre {
+  max-width: 100%;
+  overflow-x: auto;
+}

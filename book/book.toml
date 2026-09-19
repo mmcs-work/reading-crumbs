@@ -1,0 +1,10 @@
+[book]
+authors = ["Mainak"]
+language = "en"
+src = "src"
+title = "My Reading Notes"
+description = "A small notebook of books, chapters, and ideas worth keeping."
+
+[output.html]
+additional-css = ["custom.css"]
+git-repository-url = "https://github.com/your-account/my-reading-notes"
