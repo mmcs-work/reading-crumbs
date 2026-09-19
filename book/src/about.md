@@ -1,9 +1,7 @@
 # About
 
-This notebook is built to be updated slowly. Every new reading entry is a Markdown file in this folder, added to `SUMMARY.md` so it appears in the sidebar.
+This is a collection of things I read about and get asked about from time to time.
 
-For example:
+The original sources are linked throughout. I also keep my own notes alongside them, so I have a clearer and easier system for going through an idea again when I need to.
 
-```text
-book/src/creative-act-03-next-note.md
-```
+These are personal notes for learning and revisiting, not replacements for the original work.
